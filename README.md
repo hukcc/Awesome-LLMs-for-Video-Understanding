@@ -431,6 +431,7 @@ If you find our survey useful for your research, please cite the following paper
 |**MAD-QA**|[**Encoding and Controlling Global Semantics for Long-form Video Question Answering**](https://arxiv.org/abs/2405.19723)|2024|[Link](https://github.com/zhiyuanhubj/long_form_videoqa)|EMNLP|
 |**Ego-QA**|[**Encoding and Controlling Global Semantics for Long-form Video Question Answering**](https://arxiv.org/abs/2405.19723)|2024|[Link](https://github.com/zhiyuanhubj/long_form_videoqa)|EMNLP|
 | **BlackSwanSuite** | [**Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events**](https://arxiv.org/abs/2412.05725) [![Star](https://img.shields.io/github/stars/sahithyaravi/BlackSwan.svg?style=social&label=Star)](https://github.com/sahithyaravi/BlackSwan) | 2025 | [Link](https://blackswan.cs.ubc.ca) | CVPR |
+| **CrossVid** | [**CrossVid: A Comprehensive Benchmark for Evaluating Cross-Video Reasoning in Multimodal Large Language Models**](https://arxiv.org/abs/2511.12263) | 2025 | [Link](https://github.com/chuntianli666/CrossVid) | AAAI |
 
 #### Video Instruction Tuning
 ##### Pretraining Dataset
@@ -465,6 +466,7 @@ If you find our survey useful for your research, please cite the following paper
 | [**VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models**](https://arxiv.org/abs/2406.16338) [![Star](https://img.shields.io/github/stars/patrick-tssn/VideoHallucer.svg?style=social&label=Star)](https://github.com/patrick-tssn/VideoHallucer) | 06/2024 |           [code](https://github.com/patrick-tssn/VideoHallucer)           |                -                 |
 | [**Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events**](https://arxiv.org/abs/2412.05725) [![Star](https://img.shields.io/github/stars/sahithyaravi/BlackSwan.svg?style=social&label=Star)](https://github.com/sahithyaravi/BlackSwan) | 06/2025 |           [code](https://github.com/sahithyaravi/BlackSwan)           |                CVPR 2025             |
 | [**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**](https://arxiv.org/abs/2506.22385) | 08/2025 |          -          |                -             |
+| [**CrossVid: A Comprehensive Benchmark for Evaluating Cross-Video Reasoning in Multimodal Large Language Models**](https://arxiv.org/abs/2511.12263) | 11/2025 |           [code](https://github.com/chuntianli666/CrossVid)           |                AAAI 2026             |
 
 
 ## Contributing
