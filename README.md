@@ -468,7 +468,9 @@ If you find our survey useful for your research, please cite the following paper
 | [**Black Swan: Abductive and Defeasible Video Reasoning in Unpredictable Events**](https://arxiv.org/abs/2412.05725) [![Star](https://img.shields.io/github/stars/sahithyaravi/BlackSwan.svg?style=social&label=Star)](https://github.com/sahithyaravi/BlackSwan) | 06/2025 |           [code](https://github.com/sahithyaravi/BlackSwan)           |                CVPR 2025             |
 | [**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**](https://arxiv.org/abs/2506.22385) | 08/2025 |          -          |                -             |
 | [**CrossVid: A Comprehensive Benchmark for Evaluating Cross-Video Reasoning in Multimodal Large Language Models**](https://arxiv.org/abs/2511.12263) | 11/2025 |           [code](https://github.com/chuntianli666/CrossVid)           |                AAAI 2026             |
-
+| [**MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal LLMs**](https://arxiv.org/abs/2511.07250) |   MVU-Eval   | 11/2025 | [code](https://github.com/NJU-LINK/MVU-Eval) | NeurIPS DB |
+| [**OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs**](https://arxiv.org/abs/2510.10689) |   OmniVideoBench   | 10/2025 | [code](https://github.com/NJU-LINK/OmniVideoBench) | arXiv |
+| [**IF-VidCap: Can Video Caption Models Follow Instructions?**](https://arxiv.org/abs/2510.18726) |   IF-VidCap   | 10/2025 | [code](https://github.com/NJU-LINK/IF-VidCap) | arXiv |
 
 ## Contributing
 
